@@ -2,7 +2,7 @@
 
 Basic android splash screen with animations
 
-For animation I used translate and alpha tags to control the positional and transparency animations.
+For animation I used translate and alpha tags in top_animation and bottom_animation xmls to control the positional and transparency animations.
 For fonts I used google fonts like bad script, dancing script and kreon (bold and light).
 
 
