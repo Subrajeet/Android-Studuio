@@ -12,4 +12,4 @@ The main thing is,
        --> Suppose we want a piece of code to be executed after a few seconds suppose after 5 seconds then this action can be acheived by none other than handler.Now Handler uses runnable interfaces to run the message by using method postDelayed to delay the code execution.
       
      
-<a href="https://imgflip.com/gif/44lqnv"><img src="https://imgflip.com/44lqnv.gif" title="made at imgflip.com"/></a>
+https://imgflip.com/gif/44lqnv
