@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">leno</string>
+    <string name="slogan_name">exploring the world in comfort…</string>
+
+    <string name="firstPageTitle">Search Your Locations.</string>
+    <string name="secondPageTitle">Make A Call</string>
+    <string name="thirdPageTitle">Add Missing Places</string>
+    <string name="fourthPageTitle">Sit Back And Enjoy</string>
+
+    <string name="firstPageDesc">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</string>
+    <string name="secondPageDesc"> Cras vestibulum ex neque, quis molestie leo egestas vitae. Quisque tristique mattis massa vel pulvinar.</string>
+    <string name="thirdPageDesc">Lorem ipsum dolor sit amet, consectetur adipiscing ornare turpis ac enim laoreet convallis</string>
+    <string name="fourtPageDesc">Lorem ipsum dolor sit Fusce ornare turpis ac enim laoreet convallis</string>
+    <string name="getStarted">Get Started</string>
+
+</resources>
